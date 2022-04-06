@@ -1,0 +1,32 @@
+[
+    {
+        "description": "The floor in the fruit area is dirty",
+        "status": "solved",
+        "open_date": "02/10/2022 09:30:47",
+        "close_date": "02/10/2022 10:13:54"
+    },
+    {
+        "description": "There's a trolley full of boxes blocking the way in aisle 6",
+        "status": "open",
+        "open_date": "04/05/2022 15:24:15",
+        "close_date": ""
+    },
+    {
+        "description": "There are some dirty trolleys by ketchup",
+        "status": "open",
+        "open_date": "04/01/2022 11:42:06",
+        "close_date": ""
+    },
+    {
+        "description": "In the dairy area there are some boxes of expired milk",
+        "status": "solved",
+        "open_date": "03/24/2022 14:35:12",
+        "close_date": "03/25/2022 09:35:12"
+    },
+    {
+        "description": "The floor in aisle 2 is dirty",
+        "status": "open",
+        "open_date": "04/03/2022 09:30:47",
+        "close_date": ""
+    }
+]
